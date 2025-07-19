@@ -18,7 +18,6 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![هوش مصنوعی](https://img.shields.io/badge/-AI-FF0000?style=for-the-badge&logo=python&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
