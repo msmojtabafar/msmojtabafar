@@ -39,4 +39,4 @@
 ## 📫 راه‌های ارتباط با من
 
 - 📧 ایمیل: msmojtabafar96@gmail.com 
-- 💬 تلگرام: [@msmojtabafar](https://t.me/msmojtabafar)  
+- 💬 تلگرام: [msmojtabafar@](https://t.me/msmojtabafar)  
