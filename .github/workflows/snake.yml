@@ -1,25 +1,27 @@
-name: Generate Snake Animation
+name: 🐍 Generate Snake Animation
 
+# این اکشن هر شب ساعت 00:00 UTC اجرا میشه
 on:
   schedule:
-    - cron: "0 0 * * *" # هر روز ساعت 00:00 UTC اجرا میشه
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+  workflow_dispatch:  # امکان اجرای دستی از تب Actions
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo content
+      - name: 🛒 Checkout the repository
         uses: actions/checkout@v3
 
-      - name: Generate the GitHub contribution snake
+      - name: 🐍 Generate the GitHub contribution snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: msmojtabafar
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push the generated SVG to the output branch
+      - name: 🚀 Publish the SVG file to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
