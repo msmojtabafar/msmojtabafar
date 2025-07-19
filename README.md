@@ -1,7 +1,7 @@
 <h1 align="center">سلام، من محمدصادق هستم 👋</h1>
 
 <p align="center">
-  توسعه‌دهنده بک‌اند، عاشق امنیت، و علاقه‌مند به Python، Flask و دنیای CVEها!
+  توسعه‌دهنده بک‌اند، عاشق امنیت، و علاقه‌مند به Python، Flask و دنیای هوش مصنوعی!
 </p>
 
 ---
@@ -10,11 +10,12 @@
 
 - 🔍 در حال ساخت ابزارهایی برای تحلیل آسیب‌پذیری‌ها (CVE)
 - 🔐 علاقه‌مند به امنیت، تحلیل آسیب‌پذیری و اتوماسیون
+- 🤖 در حال یادگیری و کار با هوش مصنوعی و یادگیری ماشین
 - 🧰 زبان‌ها و ابزارهایی که باهاشون کار می‌کنم:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![AI](https://img.shields.io/badge/-AI-FF0000?style=for-the-badge&logo=python&logoColor=white)  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -37,5 +38,5 @@
 
 ## 📫 راه‌های ارتباط با من
 
-- 📧 ایمیل: msmojtabafar96@gmail.com  
+- 📧 ایمیل: your-email@example.com  
 - 💬 تلگرام: [@yourTelegram](https://t.me/msmojtabafar)  
