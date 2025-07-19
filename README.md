@@ -3,7 +3,7 @@
 <h1 align="center">سلام، من محمد هستم 👋</h1>
 
 <p align="center">
-  توسعه‌دهنده‌ی بک‌اند، عاشق هوش مصنوعی، و علاقه‌مند به Python، Flask و دنیای CVEها!
+  توسعه‌دهنده‌ی بک‌اند، عاشق هوش مصنوعی، و علاقه‌مند به Python، Flask و Android !
 </p>
 
 ---
@@ -13,13 +13,19 @@
 - 🔍 در حال ساخت ابزارهایی برای تحلیل آسیب‌پذیری‌ها (CVE)
 - 🔐 علاقه‌مند به امنیت، تحلیل آسیب‌پذیری و اتوماسیون
 - 🤖 در حال یادگیری و کار با هوش مصنوعی و یادگیری ماشین
-- 🧰 زبان‌ها و ابزارهایی که باهاشون کار می‌کنم:
+- 📱 توسعه‌دهنده‌ی اپلیکیشن‌های اندرویدی با جاوا
+  
 
- 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+## 🛠️ مهارت‌ها و ابزارها
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
