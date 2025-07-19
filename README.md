@@ -1,3 +1,4 @@
+<div dir="rtl" align="right">
 <h1 align="center">سلام، من محمدصادق هستم 👋</h1>
 
 <p align="center">
