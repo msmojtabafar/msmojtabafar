@@ -38,5 +38,5 @@
 
 ## 📫 راه‌های ارتباط با من
 
-- 📧 ایمیل: your-email@example.com  
-- 💬 تلگرام: [@yourTelegram](https://t.me/msmojtabafar)  
+- 📧 ایمیل: msmojtabafar96@gmail.com 
+- 💬 تلگرام: [@msmojtabafar](https://t.me/msmojtabafar)  
