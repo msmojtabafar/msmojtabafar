@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20I'm%20Mohammad%20Sadegh!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msmojtabafar/msmojtabafar/output/github-contribution-grid-snake.svg" />
+</p>
+
 <h2 align="center">🔧 About Me</h2>
 
 - 🛠️ Security Developer | Python Lover | Automation Enthusiast
