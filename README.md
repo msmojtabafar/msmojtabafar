@@ -1,37 +1,53 @@
-# Hi there 👋 I'm Mohammad  
+<div align="center">
 
-✨ *Turning ideas into reality through code* ✨  
+<h1>Hi, I'm Mohammad 👋</h1>
+
+<p>
+  Backend Developer, AI Enthusiast, passionate about Python, Flask, Android, and Docker!
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **AI, Security, and Open Source projects**  
-- 🌱 Always learning new technologies (Python, Node.js, Machine Learning)  
-- 💡 Passionate about solving real-world problems with creative solutions  
-- 🎯 Goal: Build tools that make tech more **accessible, secure, and powerful**  
+
+- 🔍 Building tools for **CVE vulnerability analysis**  
+- 🔐 Interested in **security, vulnerability assessment, and automation**  
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**  
+- 📱 Developing **Android applications with Java**  
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python 🐍 | C++ ⚡ | Java ☕ | JavaScript ⚡  
-- **Frameworks:** Flask, Node.js, OpenCV, TensorFlow  
-- **Databases:** MySQL, SQLite, MongoDB  
-- **Other:** Docker 🐳 | GitHub Actions ⚙️ | APIs 🔗  
+## 🛠️ Skills & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+## 📊 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msmojtabafar/msmojtabafar/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msmojtabafar&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msmojtabafar&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
-## 🌍 Let’s Connect!
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 Reach me at: **your.email@example.com**  
+## 📫 How to Reach Me
 
----
+- 📧 Email: msmojtabafar96@gmail.com  
+- 💬 Telegram: [@msmojtabafar](https://t.me/msmojtabafar)  
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”* ⭐️  
+</div>
