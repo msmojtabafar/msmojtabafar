@@ -3,7 +3,10 @@
 <h1>Hi, I'm Mohammad 👋</h1>
 
 <p>
-  Backend Developer, AI Enthusiast, passionate about Python, Flask, Android, and Docker!
+  Python developer exploring **modern frameworks**,  
+  AI enthusiast with a focus on **computer vision**,  
+  continuously learning **Artificial Intelligence & Machine Learning**,  
+  and Android application developer using **Java**!
 </p>
 
 ---
