@@ -42,12 +42,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msmojtabafar&theme=radical" alt="GitHub streak" />
 </p>
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: msmojtabafar96@gmail.com  
-- 💬 Telegram: [@msmojtabafar](https://t.me/msmojtabafar)  
-
 </div>
