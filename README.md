@@ -3,20 +3,17 @@
 <h1>Hi, I'm Mohammad 👋</h1>
 
 <p>
-  Python developer exploring **modern frameworks**,  
-  AI enthusiast with a focus on **computer vision**,  
-  continuously learning **Artificial Intelligence & Machine Learning**,  
-  and Android application developer using **Java**!
+  Backend Developer, AI Enthusiast, passionate about Python, Flask, Android, and Docker!
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 Building tools for **CVE vulnerability analysis**  
-- 🔐 Interested in **security, vulnerability assessment, and automation**  
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**  
-- 📱 Developing **Android applications with Java**  
+- 🐍 Python developer exploring **modern frameworks**  
+- 🤖 AI enthusiast with a focus on **computer vision**  
+- 🌱 Continuously learning **Artificial Intelligence & Machine Learning**  
+- 📱 Android application developer using **Java**  
 
 ---
 
