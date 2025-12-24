@@ -27,7 +27,7 @@
 
 ## 🛠️ Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,flask,java,linux,docker,mysql,git,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=py,flask,java,androidstudio,linux,docker,mysql,git)
 ---
 
 ## 📊 My GitHub Stats
