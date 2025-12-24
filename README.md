@@ -10,15 +10,10 @@
 </p>
 
 <p align="center">
-<a href=https://linkedin.com/in/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="20" width="20" /></a>
-<a href=https://instagram.com/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="20" width="20" /></a>
-<a href=https://t.me/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="20" /></a>
+<a href=https://instagram.com/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="50" width="20" /></a>
+<a href=https://t.me/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="20" width="50" /></a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/msmojtabafar/)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13582324/msmojtabafar)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/msmojtabafar/)
-[![My Skills](https://skillicons.dev/icons?i=telegram)](https://t.me/msmojtabafar)
 ---
 
 ## 🚀 About Me
