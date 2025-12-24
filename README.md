@@ -1,6 +1,5 @@
 <div align="center">
 
-<h1>Hi, I'm Mohammad 👋</h1>
 <br/>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Mohammad</h1>
@@ -10,6 +9,11 @@
   Backend Developer, AI Enthusiast, passionate about Python, Flask, Android, and Docker!
 </p>
 
+<p align="center">
+<a href=https://linkedin.com/in/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="20" width="20" /></a>
+<a href=https://instagram.com/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="20" width="20" /></a>
+<a href=https://t.me/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="20" width="20" /></a>
+</p>
 ---
 
 ## 🚀 About Me
