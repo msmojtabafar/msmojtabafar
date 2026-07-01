@@ -13,13 +13,6 @@
 <a href=https://instagram.com/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="50" width="50" /></a>
 <a href=https://t.me/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" height="50" width="50" /></a>
 </p>
----
-## 🚀 About Me
-
-- 🐍 Python developer exploring **modern frameworks**  
-- 🤖 AI enthusiast with a focus on **computer vision**  
-- 🌱 Continuously learning **Artificial Intelligence & Machine Learning**  
-- 📱 Android application developer using **Java**  
 
 ---
 
