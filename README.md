@@ -16,6 +16,9 @@
 </p>
 ---
 
+![codepedia's GitHub Profile Header](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
+
+---
 ## 🚀 About Me
 
 - 🐍 Python developer exploring **modern frameworks**  
