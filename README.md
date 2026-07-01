@@ -8,10 +8,6 @@
 
 ![codepedia's GitHub Profile Header](https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif)
 
-<p>
-  Backend Developer, AI Enthusiast, passionate about Python, Flask, Android, and Docker!
-</p>
-
 <p align="center">
 <a href=https://linkedin.com/in/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" height="50" width="50" /></a>
 <a href=https://instagram.com/msmojtabafar target="blank"><img align="center" src="https://img.icons8.com/color-glass/48/000000/instagram-new.png" height="50" width="50" /></a>
