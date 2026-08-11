@@ -27,9 +27,7 @@
   <img src="https://raw.githubusercontent.com/msmojtabafar/msmojtabafar/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msmojtabafar&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+
 
 
 </div>
